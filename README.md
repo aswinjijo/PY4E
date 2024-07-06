@@ -38,8 +38,7 @@ To get started with these programs, you'll need to have Python installed on your
 git clone https://github.com/aswinjijo/PY4E.git
 
 
-cd py4e-course-programs
-
+cd PY4E
 
 
 Contributing
