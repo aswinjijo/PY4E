@@ -35,7 +35,7 @@ Getting Started
 To get started with these programs, you'll need to have Python installed on your machine. You can download Python from the official website. Once you have Python set up, you can clone this repository and run the programs using the command line or an integrated development environment (IDE) of your choice.
 
 
-git clone https://github.com/your-username/py4e-course-programs.git
+git clone https://github.com/aswinjijo/PY4E.git
 
 
 cd py4e-course-programs
